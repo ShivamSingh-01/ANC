@@ -1,2 +1,6 @@
-.wav
-_pycache_
+# Ignore all wav files
+*.wav
+
+# Ignore all pycache folders wherever they are
+**/__pycache__/
+*.py[cod]
